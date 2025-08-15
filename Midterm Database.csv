@@ -1,0 +1,87 @@
+Number,Name,Series,First Appearance,Availability,Tier
+1,Mario,Mario,N64,Starter,A+
+2,Donkey Kong,Donkey Kong,N64,Starter,B-
+3,Link,Legend of Zelda,N64,Starter,C-
+4,Samus,Metroid,N64,Starter,A+
+4e,Dark Samus,Metroid,N64,Unlockable,A+
+5,Yoshi,Yoshi,N64,Starter,S-
+6,Kirby,Kirby,N64,Starter,C-
+7,Fox,Star Fox,N64,Starter,S-
+8,Pikachu,Pokémon,N64,Starter,S-
+9,Luigi,Mario,N64,Unlockable,A+
+10,Ness,EarthBound,N64,Unlockable,B-
+11,Captain Falcon,F-Zero,N64,Unlockable,B+
+12,Jigglypuff,Pokémon,N64,Unlockable,C-
+13,Peach,Mario,Melee,Unlockable,S-
+13e,Daisy,Mario,Melee,Unlockable,S-
+14,Bowser,Mario,Melee,Unlockable,C-
+15,Ice Climbers,Ice Climber,Melee,Unlockable,B-
+16,Sheik,Legend of Zelda,Melee,Unlockable,B-
+17,Zelda,Legend of Zelda,Melee,Unlockable,D
+18,Dr. Mario,Mario,Melee,Unlockable,D
+19,Pichu,Pokémon,Melee,Unlockable,B-
+20,Falco,Star Fox,Melee,Unlockable,A
+21,Marth,Fire Emblem,Melee,Unlockable,C-
+21e,Lucina,Fire Emblem,Wii U,Unlockable,A-
+22,Young Link,Legend of Zelda,Melee,Unlockable,B+
+23,Ganondorf,Legend of Zelda,Melee,Unlockable,E
+24,Mewtwo,Pokémon,Melee,Unlockable,C-
+25,Roy,Fire Emblem,Melee,Unlockable,A+
+25e,Chrom,Fire Emblem,Ultimate,Unlockable,C+
+26,Mr. Game & Watch,Game & Watch,Melee,Unlockable,S
+27,Meta Knight,Kirby,Brawl,Unlockable,B-
+28,Pit,Kid Icarus,Brawl,Unlockable,B+
+28e,Dark Pit,Kid Icarus,Brawl,Unlockable,B+
+29,Zero Suit Samus,Metroid,Brawl,Unlockable,A-
+30,Wario,WarioWare,Brawl,Unlockable,A
+31,Snake,Metal Gear Solid,Brawl,Unlockable,S+
+32,Ike,Fire Emblem,Brawl,Unlockable,D
+33,Pokemon Trainer,Pokémon,Brawl,Unlockable,A-
+34,Diddy Kong,Donkey Kong,Brawl,Unlockable,S-
+35,Lucas,EarthBound,Brawl,Unlockable,C+
+36,Sonic,Sonic the Hedgehog,Brawl,Unlockable,S+
+37,King Dedede,Kirby,Brawl,Unlockable,D
+38,Olimar,Pikmin,Brawl,Unlockable,A+
+39,Lucario,Pokémon,Brawl,Unlockable,C+
+40,R.O.B.,Nintendo Entertainment System R.O.B.,Brawl,Unlockable,S
+41,Toon Link,Legend of Zelda,Brawl,Unlockable,A-
+42,Wolf,Star Fox,Brawl,Unlockable,A
+43,Villager,Animal Crossing,Wii U,Unlockable,D
+44,Mega Man,Mega Man,Wii U,Unlockable,B-
+45,Wii Fit Trainer,Wii Fit,Wii U,Unlockable,C+
+46,Rosalina & Luma,Mario,Wii U,Unlockable,B+
+47,Little Mac,Punch-Out!!!,Wii U,Unlockable,E
+48,Greninja,Pokémon,Wii U,Unlockable,A-
+49,Mii Brawler,Mii,Wii U,Unlockable,A-
+50,Mii Sword Fighter,Mii,Wii U,Unlockable,D
+51,Mii Gunner,Mii,Wii U,Unlockable,C+
+52,Palutena,Kid Icarus,Wii U,Unlockable,A+
+53,Pac-Man,PAC-MAN,Wii U,Unlockable,A-
+54,Robin,Fire Emblem,Wii U,Unlockable,C-
+55,Shulk,Xenoblade Chronicles,Wii U,Unlockable,A-
+56,Bowser Jr.,Mario,Wii U,Unlockable,C-
+57,Duck Hunt,Duck Hunt,Wii U,Unlockable,C-
+58,Ryu,Street Fighter,Wii U,Unlockable,A-
+58e,Ken,Street Fighter,Ultimate,Unlockable,B+
+59,Cloud,Final Fantasy VII,Wii U,Unlockable,A+
+60,Corrin,Fire Emblem,Wii U,Unlockable,A
+61,Bayonetta,Bayonetta,Wii U,Unlockable,A+
+62,Inkling,Splatoon,Ultimate,Unlockable,B-
+63,Ridley,Metroid,Ultimate,Unlockable,C-
+64,Simon,Castlevania,Ultimate,Unlockable,D
+64e,Richter,Castlevania,Ultimate,Unlockable,D
+65,King K. Rool,Donkey Kong,Ultimate,Unlockable,D
+66,Isabelle,Animal Crossing,Ultimate,Unlockable,C-
+67,Incineroar,Pokémon,Ultimate,Unlockable,C+
+68,Piranha Plant,Mario,Ultimate,DLC,D
+69,Joker,Persona,Ultimate,DLC,S-
+70,Hero,DRAGON QUEST,Ultimate,DLC,A
+71,Banjo & Kazooie,Banjo-Kazooie,Ultimate,DLC,C+
+72,Terry,FATAL FURY,Ultimate,DLC,A-
+73,Byleth,Fire Emblem,Ultimate,DLC,B-
+74,Min Min,ARMS,Ultimate,DLC,S-
+75,Steve,Minecraft,Ultimate,DLC,S+
+76,Sephiroth,Final Fantasy VII,Ultimate,DLC,B-
+77,Pyra & Mythra,Xenoblade Chronicles,Ultimate,DLC,S
+78,Kazuya,TEKKEN,Ultimate,DLC,S
+79,Sora,Kingdom Hearts,Ultimate,DLC,A
